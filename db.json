@@ -3,7 +3,7 @@
          {
           id:5928101,
         category:'bien-etre animal',
-         title: 'journée d'aaméloration'
+         title: 'journée d'aaméloration' ,
         description :'trouver votre nouvel ami félin lors de cet événement',
         location : 'Mewo Town',
         date: '28 january 2022',
