@@ -1,0 +1,37 @@
+{
+      events:[
+         {
+          id:5928101,
+        category:'bien-etre animal',
+        title: 'journée d\'adoption des chats ',
+        description :'trouver votre nouvel ami félin lors de cet événement',
+        location : 'Mewo Town',
+        date: '28 january 2022',
+        time :'12:00',
+        petsAllowed : true ,
+        organizer : 'foulen ben foulen',
+        },
+        {
+          id:5928101,
+        category:'bien-etre animal',
+        title: 'journée  des invitations ',
+        description :'trouver votre nouvel ami félin lors de cet événement',
+        location : 'Mewo Town',
+        date: '11 decembre 2023',
+        time :'18:00',
+        petsAllowed : true ,
+        organizer : 'foulen ben foulen',
+        },
+        {
+          id:5928101,
+        category:'bien-etre animal',
+        title: 'journée d\'aaméloration ',
+        description :'trouver votre nouvel ami félin lors de cet événement',
+        location : 'Mewo Town',
+        date: '01 juin 2024',
+        time :'23:00',
+        petsAllowed : true ,
+        organizer : 'foulen ben foulen',
+        },
+      ]
+    }
